@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-A content-based movie recommendation app built using **Streamlit** and **TensorFlow**.  
+A content-based movie recommendation app built using **Streamlit** and **Python**.  
 This app suggests similar movies based on your selected title, leveraging a pretrained model with cosine similarity.
 
 🚀 **Live App**: [rich-movie-recommend-system.streamlit.app](https://rich-movie-recommend-system.streamlit.app/)
