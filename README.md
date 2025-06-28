@@ -7,12 +7,6 @@ This app suggests similar movies based on your selected title, leveraging a pret
 
 ---
 
-## 📸 Preview
-
-![Demo Screenshot](https://rich-movie-recommend-system.streamlit.app/_static/favicon.png)  
-> Select a movie and get recommendations with posters instantly.
-
----
 
 ## ⚙️ Features
 
